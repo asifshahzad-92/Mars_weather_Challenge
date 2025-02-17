@@ -8,9 +8,11 @@ This Challenge involves data scrapping and analysis of data based on data collec
 
 1. Mars news articles from the webite
 [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html)
+Result: [Mars Weather NEWS](https://github.com/asifshahzad-92/Mars_weather_Challenge/blob/main/mars_news.json)
 
-2. Weather data scraping and analysis
+3. Weather data scraping and analysis
 [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html)
+Result: [Curiosity Rover Data](https://github.com/asifshahzad-92/Mars_weather_Challenge/blob/main/mars_data.csv)
 
 ### Data Analysis:
 
@@ -56,11 +58,19 @@ Analyzed the data set to answer the following questions:
 ![Average Daily Atmospheric Pressure Bar Chart](https://github.com/user-attachments/assets/99ef1901-7087-4f95-a70f-6792b8e6d099)
 
 
-7. About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
+7. About how many terrestrial (Earth) days exist in a Martian year?
+
+   There are roughly 685 Earth days in a Martain year based on the temperature variation from Curiosity Reover Temperature variation Data.
 
 
     * Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 
+As we can see from visually plotting temperature data of subset 315 to 1000 there are roughly 685 Days on Earth elapsed that Mars circles the sun once (year).
 
     * Visually estimate the result by plotting the daily minimum temperature.
+   
+  ![Daily Minimum Temperature 315 to 1000](https://github.com/user-attachments/assets/5f664dca-ab85-44f3-b0cf-e926ca6644cb)
+
+
+
 
