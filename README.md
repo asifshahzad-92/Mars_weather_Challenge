@@ -69,7 +69,7 @@ Analyzed the data set to answer the following questions:
 
     * Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 
-As we can see from visually plotting temperature data of subset 315 to 1000 there are roughly 685 Days on Earth elapsed that Mars circles the sun once (year).
+As we can see from visually plotting temperature data of subset 315 to 1000 roughly 685 days on Earth elapsed that Mars circles the sun once (year).
 
     * Visually estimate the result by plotting the daily minimum temperature.
    
