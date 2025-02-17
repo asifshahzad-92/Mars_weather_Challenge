@@ -8,10 +8,14 @@ This Challenge involves data scrapping and analysis of data based on data collec
 
 1. Mars news articles from the webite
 [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html)
+
+
 Result: [Mars Weather NEWS](https://github.com/asifshahzad-92/Mars_weather_Challenge/blob/main/mars_news.json)
 
 3. Weather data scraping and analysis
 [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html)
+
+
 Result: [Curiosity Rover Data](https://github.com/asifshahzad-92/Mars_weather_Challenge/blob/main/mars_data.csv)
 
 ### Data Analysis:
